@@ -75,7 +75,7 @@ This project is a Flask-based web application for predicting manufacturing downt
 
 1. **Access the Application**
 
-    Open your web browser and navigate to the URL provided by Render (e.g., [Website link](https://manufacturing-downtime-prediction.onrender.com).
+    Open your web browser and navigate to the URL provided by Render (e.g., [Website link](https://manufacturing-downtime-prediction.onrender.com)).
 
 2. **Download Sample Dataset**
 
