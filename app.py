@@ -4,6 +4,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score, classification_report
 import os
 from flask_cors import CORS
+import pandas as pd
 
 app = Flask(__name__)
 CORS(app)
